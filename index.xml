@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jon Tsiros Dev Blog</title>
+    <link>/</link>
+    <description>Recent content on Jon Tsiros Dev Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Mar 2019 13:14:53 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nest - An Implementation of the Nest API in Go</title>
+      <link>/posts/go-nest-api/</link>
+      <pubDate>Fri, 22 Mar 2019 13:14:53 -0700</pubDate>
+      
+      <guid>/posts/go-nest-api/</guid>
+      <description>One of the first major open-source projects I&amp;rsquo;ve worked on in Go was to unify all of my home devices under the Home app provided by Apple&amp;rsquo;s iOS. I came to realize after acquiring many devices that there was just no universal solution to integrate these into Home. After doing some research and nifty network sniffing, most devices either had a published or unpublished RESTful API that I could implement along with Apple&amp;rsquo;s HAP specification.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi! My name is Jon Tsiros, and I’m am a software engineer. I’ve created yet another tech blog to share my discoveries and passions for writing and developing software. I’m a huge Go advocate and love all things Go! Some of my goals for this blog are:
+fmt.Println(` 1. Reinforce technical concepts through project examples and discussions 2. Provide resources to contribute back to the community and foster growth among engineers 3.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/showcase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/showcase/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
