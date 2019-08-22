@@ -36,7 +36,11 @@ fmt.Println(` 1. Reinforce technical concepts through project examples and discu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/showcase/</guid>
-      <description></description>
+      <description>Here&amp;rsquo;s a list of my open-source projects. A majority of them can be found on Github.
+Nest Nest is an implementation of the Nest API in Go.
+MPExporter MPExporter exports your Macpass/Keepass compatible XML export file to CSV.
+Dotfiles My dotfiles for fish, vim-go, neovim, and others.
+Go + React An example Go application using Gotron + React</description>
     </item>
     
   </channel>
