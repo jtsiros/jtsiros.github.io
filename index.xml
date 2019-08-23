@@ -6,10 +6,21 @@
     <description>Recent content on Jon Tsiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Mar 2019 13:14:53 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2019 13:14:53 -0700</lastBuildDate>
     
 	<atom:link href="https://jtsiros.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://jtsiros.github.io/resume/</link>
+      <pubDate>Thu, 22 Aug 2019 13:14:53 -0700</pubDate>
+      
+      <guid>https://jtsiros.github.io/resume/</guid>
+      <description>Education  2016-2017 MSc, Computer Science; Georgia Institute of Technology (Atlanta, GA) 2009-2013 BSc, Software Engineering; University of Phoenix (San Marcos, CA)  Experience Senior Software Engineer: Smart Edge - 2019-Present
+Smart Edge is a tech startup that creates a multi-access edge compute platform. As a Senior Software Engineer on the Platform team, some of my reponsibilities include:
+ Contribute to the design and development of the Edge Node platform, microservices, VNFs, and platform management in Go  Principal Software Engineer: ID Analytics, LLC - 2013-2019</description>
+    </item>
     
     <item>
       <title>Nest - An Implementation of the Nest API in Go</title>
@@ -32,10 +43,10 @@ fmt.Println(` 1. Reinforce technical concepts through project examples and discu
     
     <item>
       <title></title>
-      <link>https://jtsiros.github.io/showcase/</link>
+      <link>https://jtsiros.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jtsiros.github.io/showcase/</guid>
+      <guid>https://jtsiros.github.io/projects/</guid>
       <description>Here&amp;rsquo;s a list of my open-source projects. A majority of them can be found on Github.
 Nest Nest is an implementation of the Nest API in Go.
 MPExporter MPExporter exports your Macpass/Keepass compatible XML export file to CSV.
