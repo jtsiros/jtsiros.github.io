@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Jon Tsiros Dev Blog</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Jon Tsiros Dev Blog</description>
+    <title>Tags on Jon Tsiros</title>
+    <link>https://jtsiros.github.io/tags/</link>
+    <description>Recent content in Tags on Jon Tsiros</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Fri, 22 Mar 2019 13:14:53 -0700</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jtsiros.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>development</title>
-      <link>/tags/development/</link>
+      <link>https://jtsiros.github.io/tags/development/</link>
       <pubDate>Fri, 22 Mar 2019 13:14:53 -0700</pubDate>
       
-      <guid>/tags/development/</guid>
+      <guid>https://jtsiros.github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>/tags/go/</link>
+      <link>https://jtsiros.github.io/tags/go/</link>
       <pubDate>Fri, 22 Mar 2019 13:14:53 -0700</pubDate>
       
-      <guid>/tags/go/</guid>
+      <guid>https://jtsiros.github.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>/tags/golang/</link>
+      <link>https://jtsiros.github.io/tags/golang/</link>
       <pubDate>Fri, 22 Mar 2019 13:14:53 -0700</pubDate>
       
-      <guid>/tags/golang/</guid>
+      <guid>https://jtsiros.github.io/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nest</title>
-      <link>/tags/nest/</link>
+      <link>https://jtsiros.github.io/tags/nest/</link>
       <pubDate>Fri, 22 Mar 2019 13:14:53 -0700</pubDate>
       
-      <guid>/tags/nest/</guid>
+      <guid>https://jtsiros.github.io/tags/nest/</guid>
       <description></description>
     </item>
     
