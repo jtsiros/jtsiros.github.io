@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jon Tsiros</title>
@@ -6,20 +6,17 @@
     <description>Recent content on Jon Tsiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Aug 2019 13:14:53 -0700</lastBuildDate>
-    
-	<atom:link href="https://jtsiros.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 22 Mar 2019 13:14:53 -0700</lastBuildDate><atom:link href="https://jtsiros.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://jtsiros.github.io/resume/</link>
       <pubDate>Thu, 22 Aug 2019 13:14:53 -0700</pubDate>
       
       <guid>https://jtsiros.github.io/resume/</guid>
-      <description>Education  2016-2017 MSc, Computer Science; Georgia Institute of Technology (Atlanta, GA) 2009-2013 BSc, Software Engineering; University of Phoenix (San Marcos, CA)  Experience Senior Software Engineer: Smart Edge - 2019-Present
-Smart Edge is a tech startup that creates a multi-access edge compute platform. As a Senior Software Engineer on the Platform team, some of my reponsibilities include:
- Contribute to the design and development of the Edge Node platform, microservices, VNFs, and platform management in Go  Principal Software Engineer: ID Analytics, LLC - 2013-2019</description>
+      <description>Education     2016-2017 MSc, Computer Science; Georgia Institute of Technology (Atlanta, GA) 2009-2013 BSc, Software Engineering; University of Phoenix (San Marcos, CA)  Experience    Software Engineering Manager: Intel - 2020-Present
+I manage our California platform software engineering teams responsible for developing and maintaining Intel&amp;rsquo;s Smart Edge MEC platform core services.
+Senior Software Engineer: Intel - 2019-2020
+As a Senior Software Engineer on the Smart Edge Platform team, some of my reponsibilities included:</description>
     </item>
     
     <item>
@@ -48,10 +45,10 @@ fmt.Println(` 1. Reinforce technical concepts through project examples and discu
       
       <guid>https://jtsiros.github.io/projects/</guid>
       <description>Here&amp;rsquo;s a list of my open-source projects. A majority of them can be found on Github.
-Nest Nest is an implementation of the Nest API in Go.
-MPExporter MPExporter exports your Macpass/Keepass compatible XML export file to CSV.
-Dotfiles My dotfiles for fish, vim-go, neovim, and others.
-Go + React An example Go application using Gotron + React</description>
+Nest    Nest is an implementation of the Nest API in Go.
+MPExporter    MPExporter exports your Macpass/Keepass compatible XML export file to CSV.
+Dotfiles    My dotfiles for fish, vim-go, neovim, and others.
+Go + React    An example Go application using Gotron + React</description>
     </item>
     
   </channel>
